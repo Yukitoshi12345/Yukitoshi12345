@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Yukitoshi12345
+- 👋 Hi, I’m Yukitoshi
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---
@@ -17,7 +17,6 @@ You can click the Preview link to take a look at your changes.
 ### 📊 Github Stats
 <a href='https://github.com/yukitoshi12345/github-stats-transparent'>
   
-![Stats Overview](https://raw.githubusercontent.com/yukitoshi12345/github-stats-transparent/output/generated/overview.svg)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yukitoshi12345)](https://github.com/anuraghazra/github-readme-stats)
 </a>
 
