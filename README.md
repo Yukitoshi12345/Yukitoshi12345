@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 ### 📊 Github Stats
 <a href='https://github.com/yukitoshi12345/github-stats-transparent'>
   
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yukitoshi12345)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yukitoshi12345)](https://github.com/yukitoshi12345/)
 </a>
 
 <br>
