@@ -10,12 +10,6 @@
 
 
 ### 📊 Github Stats
-<a href='https://github.com/yukitoshi12345/github-stats-transparent'>
-
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yukitoshi12345)](https://github.com/yukitoshi12345/)
-</a>
-
-<h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=yukitoshi12345&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
