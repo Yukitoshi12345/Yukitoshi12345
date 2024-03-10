@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Data, Finance, Mathematics, Statistics, Software Development, Sports.
 - 🌱 I’m currently learning Full Stack Development and Data Science.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on .....
 - 📫 How to reach me: https://www.linkedin.com/in/yukitoshi-imaizumi-zhou/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I always seek to learn new things!
