@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Full Stack Development and Data Science.
 - 💞️ I’m looking to collaborate on any projects related to web development, data analyst, and data science.
 - 📫 How to reach me: https://www.linkedin.com/in/yukitoshi-imaizumi-zhou/
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I always seek to learn new things!
 - 🙏 Quote: You miss 100% of the shots you don't take! Take every opportunity you can!
 
