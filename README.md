@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hello! I'm Yukitoshi.</h2>
 
 - 👀 I’m interested in Data, Finance, Mathematics, Statistics, Software Development, Sports.
-- 🌱 I’m currently learning Full Stack Development and Data Science.
+- 🌱 I’m currently learning Full Stack Development and Data Science!
 - 💞️ I’m looking to collaborate on any projects related to web development, data analyst, and data science.
 - 📫 How to reach me: https://www.linkedin.com/in/yukitoshi-imaizumi-zhou/
 - 😄 Pronouns: He/Him.
