@@ -7,6 +7,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I always seek to learn new things!
 - 🙏 Quote: You miss 100% of the shots you don't take! Take every opportunity you can!
+- Profile: https://yukitoshi.netlify.app/
 
 <br>
 
