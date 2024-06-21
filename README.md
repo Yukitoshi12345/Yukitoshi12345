@@ -6,9 +6,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I always seek to learn new things!
 - 🙏 Quote: You miss 100% of the shots you don't take! Take every opportunity you can!
-- 👤 Profile: https://yukitoshi.netlify.app/
-- 📫 How to reach me: https://www.linkedin.com/in/yukitoshi-imaizumi-zhou
-
+- 📫 How to reach me: yukitoshi.imaizumizhou@gmail.com
 <br>
 
 ## 🔨 Languages & Frameworks & Skills ⭐️:
